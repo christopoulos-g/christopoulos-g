@@ -20,5 +20,5 @@
 <br><br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/grigorios-christopoulos" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="grigorios-christopoulos" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/grigorios-christopoulos" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="grigorios-christopoulos"/></a>
 </p>
