@@ -1,16 +1,16 @@
 <h3 align="center">Welcome!</h3>
 
-- 📚 I’m studying **Computer science at UoC**
+- 📚 I’m studying **Computer science at UoC** .
 
-- 🔭 In the past year, I've focused on learning about **Cyber Security**
+- 🔭 In the past year, I've focused on learning about **Cyber Security** .
 
 - 🔎 I've always find it **interesting** how do we manage to protect ourselves in today's digital world from bad actors and how do the adversaries have success doing it.
 
-- 💻 Having completed many TryHackMe rooms(CTFs inclueded), I can comfortably say that the knowledge and hands-on experience I got with things like SIEMs(like Splunk), Network Traffic analysis(with Wireshark, Zeek, Snort), Endpoint Security Monitoring(with Sysinternals, Windows Event Logs, Wazuh with Osquery, Sysmon) and many more, made me confirm how much interesting the cybersecurity topic is!
+- 💻 Having completed many TryHackMe rooms (CTFs inclueded), I can comfortably say that the knowledge and hands-on experience I got with things like SIEMs (like Splunk), Network Traffic analysis (with Wireshark, Zeek, Snort), Endpoint Security Monitoring(with Sysinternals, Windows Event Logs, Wazuh with Osquery, Sysmon) and many more, made me confirm how much interesting the cybersecurity topic is!
 
-- 🌱 Previously, for fun, I've managed to get some experience in front-end developing with Javascript Frameworks like **React**, but also on the back-end developing side with frameworks like : **Ruby on Rails, Node.js Express** .
+- 🌱 Previously, for fun, I've managed to get some experience in front-end developing with Javascript Frameworks like **React**, but also the back-end developing side with frameworks like : **Ruby on Rails, Node.js Express** .
 
-- 🎇 For personal use and for fun I've tinkered a bit with **Docker**(as I wanted to run a local HomeAssistant instance for my IoT devices), **VMs** and **a lot** with **Linux**(as I daily drive them both on my desktop and laptop in the past 6months) !
+- 🎇 For personal use and for fun I've tinkered a bit with **Docker** (as I wanted to run a local HomeAssistant instance for my IoT devices), **VMs** and **a lot** with **Linux** (as I daily drive them both on my desktop and laptop in the past 6months) !
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
