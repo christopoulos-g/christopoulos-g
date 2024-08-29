@@ -1,4 +1,4 @@
-<h3 align="center">Welcome</h3>
+<h3 align="center">Welcome!</h3>
 
 - 📚 I’m studying **Computer science at UoC**
 
