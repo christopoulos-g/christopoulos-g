@@ -6,7 +6,7 @@
 
 - 🔎 I've always find it **interesting** how do we manage to protect ourselves in today's digital world from bad actors and how do the adversaries have success doing it.
 
-- 💻 Having completed many TryHackMe rooms, I can comfortably say that the knowledge and hands-on experience I got with things like SIEMs(like Splunk), Network Traffic analysis(with Wireshark, Zeek, Snort), Endpoint Security Monitoring(with Sysinternals, Windows Event Logs, Wazuh with Osquery, Sysmon) and many more, made me confirm how much interesting the cybersecurity topic is!
+- 💻 Having completed many TryHackMe rooms(CTFs inclueded), I can comfortably say that the knowledge and hands-on experience I got with things like SIEMs(like Splunk), Network Traffic analysis(with Wireshark, Zeek, Snort), Endpoint Security Monitoring(with Sysinternals, Windows Event Logs, Wazuh with Osquery, Sysmon) and many more, made me confirm how much interesting the cybersecurity topic is!
 
 - 🌱 Previously, for fun, I've managed to get some experience in front-end developing with Javascript Frameworks like **React**, but also on the back-end developing side with frameworks like : **Ruby on Rails, Node.js Express** .
 
