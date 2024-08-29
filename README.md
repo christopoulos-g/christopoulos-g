@@ -17,6 +17,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <img align="center" src="https://skillicons.dev/icons?i=js,html,css,bash,linux,react,electron,kali,nextjs,ruby,rails,elasticsearch,ps,docker,c,cpp&perline=8">
+  <br>
 <img align="center" src="https://skillicons.dev/icons?i=c,cpp,bash,elasticsearch,linux,kali,docker,js,html,css,react,electron,nextjs,ruby,rails&perline=8">
 
 </p>
