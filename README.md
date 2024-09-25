@@ -10,7 +10,7 @@
 
 - 🌱 Previously, for fun, I've managed to get some experience in front-end developing with Javascript Frameworks like **React**, but also the back-end developing side with frameworks like : **Ruby on Rails, Node.js with Express** .
 
-- 🎇 For personal use and for fun I've tinkered a bit with **Docker** (as I wanted to run a local HomeAssistant instance for my IoT devices), **VMs** and **a lot** with **Linux** (as I daily drive them both on my desktop and laptop in the past 6months) !
+- 🎇 For personal use (and for fun), I've tinkered a bit with **Docker** (as I wanted to run a local HomeAssistant instance for my IoT devices), **VMs** and **a lot** with **Linux** (as I daily drive them both on my desktop and laptop in the past 6months) !
 
 <br>
 
